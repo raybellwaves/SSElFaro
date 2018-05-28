@@ -9,4 +9,4 @@ dependencies:
   - holoviews
   - geoviews
   - pip:
-    - git+https://github.com/raybellwaves/xvelmap.git
+    - git+https://github.com/benbovy/xvelmap.git
